@@ -1,0 +1,6 @@
+network,description,origin,directed,weighted
+ZacharyKarateNetwork,social network of a university karate club,An Information Flow Model for Conflict and Fission in Small Groups,NO,NO
+cat_connectome, Cat brain connectome,	https://neurodata.io/project/connectomes/,YES,	NO
+BasalBreastCancer,Gene coexpression in basal breast cancer (3 largest components),	https://www.frontiersin.org/articles/10.3389/fphys.2016.00568/full,	NO,	NO
+kegg_nw,Metabolic network from the Kyoto Encyclopedia of Genes and Genomes,	https://www.genome.jp/,YES,Signed
+string_BrCanReceptors,Protein-Protein interactions from AR;ESR1;ESR2;ERBB2 up to 5th networks,	https://string-db.org/cgi/network.pl?taskId=tdRtEbYEx5vd,	NO,	NO
